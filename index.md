@@ -6,13 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ClientMods for your game
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# OCP Texture Reskins
+## United States Military OCP style retextures
 ### Header 3
 
 - Bulleted
